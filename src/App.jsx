@@ -16,7 +16,7 @@ function App() {
         <TarjetaPerfil
           nombre="Uriel Eduardo Guzman Ramirez"
           carrera="Ingeniería en Sistemas"
-          semestre="7"
+          semestre=""
         />
 
         <Contador />
